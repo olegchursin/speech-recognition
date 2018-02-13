@@ -160,7 +160,6 @@ function renderNotes(notes) {
       html+= `<li class="note">
         <p class="header">
           <span class="date">${note.date}</span>
-          <a href="#" class="listen-note" title="Listen to Note">Listen to Note</a>
           <a href="#" class="delete-note" title="Delete">Delete</a>
         </p>
         <p class="content">${note.content}</p>

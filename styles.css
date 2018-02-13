@@ -7,9 +7,9 @@ p {
     color: #444;
 }
 
-button:focus {
+/* button:focus {
     outline: 0;
-}
+} */
 
 .container {
     max-width: 700px;
